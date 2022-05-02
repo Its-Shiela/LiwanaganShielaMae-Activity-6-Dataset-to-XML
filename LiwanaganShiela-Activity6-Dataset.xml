@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<data-repository>
+<Australia-data-repository>
 	<repository-name id="rn-1">Pacific and Regional Archive for Digital Sources in Endangered Cultures</repository-name>
 	<additional-name>PARADISEC</additional-name>
 	<subjects>
@@ -152,11 +152,196 @@
 	<repository-type>institutional</repository-type>
 	<language>English</language>
 	<data-or-service-provider>data provider</data-or-service-provider>
-	
 
 
+	<repository-name id="rn-6">ACU Research Bank</repository-name>
+	<additional-name>Australian Catholic Research Bank</additional-name>
+	<subjects>
+		<one>Roman Catholic Theology</one>
+		<two>History</two>
+		<three>Theology</three>
+		<four>Humanities</four>
+		<five>Humanities and Social Sciences</five>
+		<six>Medicine</six>
+		<seven>Life Sciences</seven>
+		<eight>Education Sciences</eight>
+		<nine>Economics</nine>
+		<ten>Jurisprudence</ten>
+		<eleven>Social and Behavioral Sciences</eleven>
+	</subjects>
+	<description>ACU Research Bank is the Australian Catholic University's institutional research repository. It serves to collect, preserve, and showcase the research publications and outputs of ACU staff and higher degree students. Where possible and permissible, a full text version of a research output is available as open access.</description>
+	<content-types>
+		<first>Standard office documents</first>
+		<second>Structured text</second>
+		<third>Audiovisual data</third>
+		<fourth>Scientific and Statistical data formats</fourth>
+	</content-types>
+	<keywords>
+		<k-1>arts</k-1>
+		<k-2>attender survey</k-2>
+		<k-3>business</k-3>
+		<k-4>education</k-4>
+		<k-5>interview transcripts</k-5>
+		<k-6>law</k-6>
+		<k-7>national church life survey</k-7>
+		<k-8>philosophy</k-8>
+		<k-9>theology</k-9>
+	</keywords>
+	<repository-type>institutional</repository-type>
+	<language>English</language>
+	<data-or-service-provider>data provider</data-or-service-provider>
+
+	<repository-name id="rn-7">ATNF Pulsar Catalouge</repository-name>
+	<additional-name>Psrcat</additional-name>
+	<subjects>
+		<one>Astrophysics and Astronomy</one>
+		<two>Physics</two>
+		<three>Natural Sciences</three>
+	</subjects>
+	<description>All observations obtained with the Parkes radio telescope are made available to the general community after an embargo period. Usually this embargo period is set to 18 months after the observation. The catalogue includes all published rotation-powered pulsars, including those detected only at high energies. It also includes Anomalous X-ray Pulsars (AXPs) and Soft Gamma-ray Repeaters (SGRs) for which coherent pulsations have been detected. However, it excludes accretion-powered pulsars such as Her X-1 and the recently discovered X-ray millisecond pulsars. ATNF Pulsar catalogue contains information on all published pulsars, with complete bibliographic information. For professional astronomers, a more detailed "Expert" web interface is available allowing access to parameters of specialist interest. The catalogue can also be accessed using a command-line interface on unix or linux systems.</description>
+	<contact>
+		<c-1>cass-enquiries@csiro.au</c-1>
+		<c-2>beth-cloake@csiro.au</c-2>
+	</contact>
+	<content-types>
+		<first>Scientific and statistical data formats</first>
+		<second>Plain text</second>
+	</content-types>
+	<keywords>
+		<k-1>Parkes radio telescope</k-1>
+		<k-2>Observatory</k-2>
+		<k-3>Physical sciences</k-3>
+		<k-4>Radio Astronomy</k-4>
+	</keywords>
+	<repository-type>Disciplinary and Institutional</repository-type>
+	<language>English</language>
+	<data-or-service-provider>data provider</data-or-service-provider>
+
+	<repository-name id="rn-8">TERN Data Discovery Portal</repository-name>
+	<additional-name>Terrestrial Ecosystem Research Network Data Discovery Portal</additional-name>
+	<subjects>
+		<one>Soil Sciences</one>
+		<two>Biophysics</two>
+		<three>Plant Ecology and Ecosystem Analysis</three>
+		<four>Animal Ecology. Biodiversity and Ecosystem Research</four>
+		<five>Ecology of Agricultural Landscapes</five>
+		<six>Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</six>
+		<seven>Geosciences</seven>
+		<eight>Atmospheric Sciences</eight>
+		<nine>Agriculture, Forestry, Horticulture and Veterinary medicine</nine>
+		<ten>Life Sciences</ten>
+		<eleven>Basic Biological and Medical Research</eleven>
+		<twelve>Biology</twelve>
+		<thirteen>Plant Sciences</thirteen>
+		<fourteen>Zoology</fourteen>
+		<fifteen>Geophysics and Geodesy</fifteen>
+		<sixteen>Natural Sciences</sixteen>
+		<seventeen>Atmospheric Science and Oceanography</seventeen>
+	</subjects>
+	<description>The TERN Data Discovery Portal (TDDP) is a gateway to search and access all the datasets published by the Australian Terrestrial Ecosystem Research Network. In the TERN data discovery portal, users can conduct textual and graphical searches on the metadata catalogue using a web interface with temporal, spatial, and eco science related controlled vocabulary keywords. Requests to download data discovered through different data services associated with TERN. Downloading, using and sharing data will be subjected to the TERN data licensing framework (https://www.tern.org.au/datalicence/).</description>
+	<contact>esupport@tern.org.au</contact>
+	<content-types>
+		<first>Archived data</first>
+		<second>images</second>
+		<third>Scientific and statistical data formats</third>
+	</content-types>
+	<keywords>
+		<k-1>agriculture</k-1>
+		<k-2>animals</k-2>
+		<k-3>climate</k-3>
+		<k-4>ecology</k-4>
+		<k-5>energy</k-5>
+		<k-6>human-nature interactions</k-6>
+		<k-7>land surface</k-7>
+		<k-8>plants</k-8>
+		<k-9>remote sensing</k-9>
+		<k-10>soils</k-10>
+		<k-11>terrestrial ecosystem</k-11>
+		<k-12>vegetation</k-12>
+		<k-13>water</k-13>
+	</keywords>
+	<repository-type>disciplinary</repository-type>
+	<language>English</language>
+	<data-or-service-provider>data and service provider</data-or-service-provider>
 
 
+	<repository-name id="rn-9">Online Mendelian Inheritance in Animals</repository-name>
+	<additional-name>OMIA</additional-name>
+	<subjects>
+		<one>Biology</one>
+		<two>Basic Biological and Medical Research</two>
+		<three>Animal Genetics, Cell and Developmental Biology</three>
+		<four>Life Sciences</four>
+		<five>Zoology</five>
+	</subjects>
+	<description>Online Mendelian Inheritance in Animals (OMIA) is a catalogue/compendium of inherited disorders, other (single-locus) traits, and genes in 218 animal species (other than human and mouse and rats, which have their own resources) authored by Professor Frank Nicholas of the University of Sydney, Australia, with help from many people over the years. OMIA information is stored in a database that contains textual information and references, as well as links to relevant PubMed and Gene records at the NCBI, and to OMIM and Ensembl.</description>
+	<contact>frank.nicholas@sydney.edu.au</contact>
+	<content-types>
+		<first>Standard office documents</first>
+		<second>Plain text</second>
+		<three>Structures</three>
+	</content-types>\
+	<keywords>
+		<k-1>DNA</k-1>
+		<k-2>RNA</k-2>
+		<k-3>animal genetics</k-3>
+		<k-4>bioinformatics</k-4>
+		<k-5>biotechnology</k-5>
+		<k-6>chromosome abnormalities</k-6>
+		<k-7>chromosomes</k-7>
+		<k-8>comparative biology</k-8>
+		<k-9>gene expression</k-9>
+		<k-10>genes</k-10>
+		<k-11>genetics</k-11>
+		<k-12>genomes</k-12>
+		<k-13>genomics</k-13>
+		<k-14>health</k-14>
+		<k-15>homology</k-15>
+		<k-16>human genome</k-16>
+		<k-17>life sciences</k-17>
+		<k-18>molecular biolgy</k-18>
+		<k-19>nucleotide sequence</k-19>
+		<k-20>nucleotides</k-20>
+		<k-21>phenotype</k-21>
+		<k-22>protein binding</k-22>
+		<k-23>proteins</k-23>
+		<k-24>variation</k-24>
+
+	</keywords>
+	<repository-type>Disciplinary and Institutional</repository-type>
+	<language>English</language>
+	<data-or-service-provider>data provider</data-or-service-provider>
+
+	<repository-name>World Data Centre for Space Weather</repository-name>
+	<additional-name>Space Weather Services</additional-name>
+	<subjects>
+		<one>Astrophysics and Astronomy</one>
+		<two>Geosciences</two>
+		<three>Physics</three>
+		<four>Natural Sciences</four>
+	</subjects>
+	<description>The World Data Centre section provides software and data catalogue information and data produced by IPS Radio and Space Services over the past few past decades. You can download data files, plot graphs from data files, check data availability, retrieve data sets and station information.</description>
+	<contact>SWS_Office@bom.gov.au</contact>
+	<content-types>
+		<first>Images</first>
+		<second>Scientific and statistical data formats</second>
+		<third>Network based data</third>
+		<fourth>Plain text</fourth>
+		<fifth>Raw data</fifth>
+	</content-types>
+	<keywords>
+		<k-1>FEDSAT</k-1>
+		<k-2>cosmic ray</k-2>
+		<k-3>ionosphere</k-3>
+		<k-4>ionospheric scintillation</k-4>
+		<k-5>magnetometer</k-5>
+		<k-6>riometer</k-6>
+		<k-7>solar radio</k-7>
+		<k-8>space weather</k-8>
+	</keywords>
+	<repository-type>disciplinary</repository-type>
+	<language>English</language>
+	<data-or-service-provider>data provider</data-or-service-provider>
 
 
-</data-repository>
+</Australia-data-repository>

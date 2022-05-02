@@ -1,6 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Australia-data-repository>
+<!DOCTYPE australia-data-repository[
+	<!ELEMENT australia-data-repository (repository-name, additional-name, subjects, description, contact, content-types, keywords, repository-type, language, data-or-service-provider)>
+	<!ELEMENT subjects (one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen)>
+	<!ELEMENT contact (c-1, c-2)>
+	<!ELEMENT content-types (first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth)>
+	<!ELEMENT keywords (k-1, k-2, k-3, k-4, k-5, k-6, k-7, k-8, k-9, k-10, k-11, k-12, k-13, k-14, k-15, k-16, k-17, k-18, k-19, k-20, k-21, k-22, k-23, k-24)>
+
+
+	<!ELEMENT repository-name (#PCDATA)>
+	<!ELEMENT additional-name (#PCDATA)>
+	<!ELEMENT subjects (#PCDATA)>
+	<!ELEMENT description (#PCDATA)>
+	<!ELEMENT contact (#PCDATA)>
+	<!ELEMENT content-types (#PCDATA)>
+	<!ELEMENT keywords (#PCDATA)>
+	<!ELEMENT repository-type (#PCDATA)>
+	<!ELEMENT language (#PCDATA)>
+	<!ELEMENT data-or-service-provider (#PCDATA)>
+	<!ELEMENT one (#PCDATA)>
+	<!ELEMENT two (#PCDATA)>
+	<!ELEMENT three (#PCDATA)>
+	<!ELEMENT four (#PCDATA)>
+	<!ELEMENT five (#PCDATA)>
+	<!ELEMENT six (#PCDATA)>
+	<!ELEMENT seven (#PCDATA)>
+	<!ELEMENT eight (#PCDATA)>
+	<!ELEMENT nine (#PCDATA)>
+	<!ELEMENT ten (#PCDATA)>
+	<!ELEMENT eleven (#PCDATA)>
+	<!ELEMENT twelve (#PCDATA)>
+	<!ELEMENT thirteen (#PCDATA)>
+	<!ELEMENT fourteen (#PCDATA)>
+	<!ELEMENT fifteen (#PCDATA)>
+	<!ELEMENT sixteen (#PCDATA)>
+	<!ELEMENT seventeen (#PCDATA)>
+	<!ELEMENT c-1 (#PCDATA)>
+	<!ELEMENT c-2 (#PCDATA)>
+	<!ELEMENT first (#PCDATA)>
+	<!ELEMENT second (#PCDATA)>
+	<!ELEMENT third (#PCDATA)>
+	<!ELEMENT fourth (#PCDATA)>
+	<!ELEMENT fifth (#PCDATA)>
+	<!ELEMENT sixth (#PCDATA)>
+	<!ELEMENT seventh (#PCDATA)>
+	<!ELEMENT eighth (#PCDATA)>
+	<!ELEMENT ninth (#PCDATA)>
+	<!ELEMENT tenth (#PCDATA)>
+	<!ELEMENT k-1 (#PCDATA)>
+	<!ELEMENT k-2 (#PCDATA)>
+	<!ELEMENT k-3 (#PCDATA)>
+	<!ELEMENT k-4 (#PCDATA)>
+	<!ELEMENT k-5 (#PCDATA)>
+	<!ELEMENT k-6 (#PCDATA)>
+	<!ELEMENT k-7 (#PCDATA)>
+	<!ELEMENT k-8 (#PCDATA)>
+	<!ELEMENT k-9 (#PCDATA)>
+	<!ELEMENT k-10 (#PCDATA)>
+	<!ELEMENT k-11 (#PCDATA)>
+	<!ELEMENT k-12 (#PCDATA)>
+	<!ELEMENT k-13 (#PCDATA)>
+	<!ELEMENT k-14 (#PCDATA)>
+	<!ELEMENT k-15 (#PCDATA)>
+	<!ELEMENT k-16 (#PCDATA)>
+	<!ELEMENT k-17 (#PCDATA)>
+	<!ELEMENT k-18 (#PCDATA)>
+	<!ELEMENT k-19 (#PCDATA)>
+	<!ELEMENT k-20 (#PCDATA)>
+	<!ELEMENT k-21 (#PCDATA)>
+	<!ELEMENT k-22 (#PCDATA)>
+	<!ELEMENT k-23 (#PCDATA)>
+	<!ELEMENT k-24 (#PCDATA)>
+	
+
+	<!ATTLIST repository-name id CDATA #REQUIRED>
+	]>
+
+
+
+
+
+<australia-data-repository>
 	<repository-name id="rn-1">Pacific and Regional Archive for Digital Sources in Endangered Cultures</repository-name>
 	<additional-name>PARADISEC</additional-name>
 	<subjects>
@@ -312,7 +392,7 @@
 	<language>English</language>
 	<data-or-service-provider>data provider</data-or-service-provider>
 
-	<repository-name>World Data Centre for Space Weather</repository-name>
+	<repository-name id="rn-10">World Data Centre for Space Weather</repository-name>
 	<additional-name>Space Weather Services</additional-name>
 	<subjects>
 		<one>Astrophysics and Astronomy</one>
@@ -344,4 +424,4 @@
 	<data-or-service-provider>data provider</data-or-service-provider>
 
 
-</Australia-data-repository>
+</australia-data-repository>

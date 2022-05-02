@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data-repository>
+	<repository-name id="rn-1">Pacific and Regional Archive for Digital Sources in Endangered Cultures</repository-name>
+	<additional-name>PARADISEC</additional-name>
+	<subjects>
+		<one>Linguistics</one>
+		<two>Typology</two>
+		<three>Humanities</three>
+		<four>Humanities and Social Sciences</four>
+		<five>Musicology</five>
+		<six>Fine Arts, Music, Theatre and Media Studies</six>
+	</subjects>
+	<description>PARADISEC (the Pacific And Regional Archive for Digital Sources in Endangered Cultures) offers a facility for digital conservation and access to endangered materials from all over the world. Our research group has developed models to ensure that the archive can provide access to interested communities, and conforms with emerging international standards for digital archiving. We have established a framework for accessioning, cataloguing and digitising audio, text and visual material, and preserving digital copies. The primary focus of this initial stage is safe preservation of material that would otherwise be lost, especially field tapes from the 1950s and 1960s.</description>
+	<contact>admin@paradisec.org.au</contact>
+	<content-types>
+		<first>Standard office documents</first>
+		<second>Images</second>
+		<third>Scientific and Statistical data formats</third>
+		<fourth>Audiovisual data</fourth>
+	</content-types>
+	<keywords>
+		<k-1>Australia</k-1>
+		<k-2>South Pacific Islands</k-2>
+		<k-3>Southeast Asia</k-3>
+		<k-4>Ethnography</k-4>
+		<k-5>Ethnomusicology</k-5>
+		<k-6>History</k-6>
+		<k-7>Linguistuc</k-7>
+	</keywords>
+	<repository-type>disciplinary</repository-type>
+	<language>English</language>
+	<data-or-service-provider>data provider</data-or-service-provider>
+
+
+
+	<repository-name id="rn-2">The Monarch Initiative</repository-name>
+	<additional-name>Monarch</additional-name>
+	<subjects>
+		<one>Basic Biological and Medical Research</one>
+		<two>General Genetiics</two>
+		<three>Anatomy</three>
+		<four>Biology</four>
+		<five>Life Sciences</five>
+	</subjects>
+	<description>As with most biomedical databases, the first step is to identify relevant data from the research community. The Monarch Initiative is focused primarily on phenotype-related resources. We bring in data associated with those phenotypes so that our users can begin to make connections among other biological entities of interest. We import data from a variety of data sources. With many resources integrated into a single database, we can join across the various data sources to produce integrated views. We have started with the big players including ClinVar and OMIM, but are equally interested in boutique databases. You can learn more about the sources of data that populate our system from our data sources page https://monarchinitiative.org/about/sources.</description>
+	<contact>info@monarchinitiative</contact>
+	<content-types>
+		<first>Standard office documents</first>
+		<second>Images</second>
+		<third>Scientific and statistical data formats</third>
+		<fourth>Structured Text</fourth>
+		<fifth>Plain Text</fifth>
+	</content-types>
+	<keywords>
+		<k-1>drugs</k-1>
+		<k-2>disease</k-2>
+	</keywords>
+	<repository-type>disciplinary</repository-type>
+	<language>English</language>
+	<data-or-service-provider>service provider</data-or-service-provider>
+
+
+	<repository-name id="rn-3">Monash Bridges</repository-name>
+	<additional-name>monash.figshare</additional-name>
+	<subjects>
+		<one>Computer Science</one>
+		<two>Humanities</two>
+		<three>Geophysics</three>
+		<four>Computer Science, Electrical and System Engineering</four>
+		<five>Engineeering Sciences</five>
+		<six>Humanities and Social Sciences</six>
+		<seven>Geophysics and Geodesy</seven>
+		<eight>Geosciences</eight>
+		<nine>Natural Sciences</nine>
+
+	</subjects>
+	<description>Bridges is Monash University's repository for research data, collections, and research activity outputs. It is also the home of the University's online archive of PhD and Masters by Research theses.</description>
+
+	<contact>researchdata@monash.edu</contact>
+	<content-types>
+		<first>Images</first>
+		<second>Audiovisual data</second>
+		<third>Plain text</third>
+		<fourth>Standard office documents</fourth>
+		<fifth>Software applications</fifth>
+		<sixth>Source code</sixth>
+		<seventh>Secientific and statistical data formats</seventh>
+	</content-types>
+	<keywords>
+		<k-1>research data</k-1>
+		<k-2>research outputs</k-2>
+	</keywords>
+	<repository-type>Institutional</repository-type>
+	<language>English</language>
+	<data-or-service-provider>data provider</data-or-service-provider>
+
+
+	<repository-name id="rn-4">ArachnoServer</repository-name>
+	<additional-name>none</additional-name>
+	<subjects>
+		<one>Animal Genetics, Cell and Developmental Biology</one>
+		<two>Zoology</two>
+		<three>Biology</three>
+		<four>Life Sciences</four>
+		<five>Toxicology and Occupational Medicine</five>
+		<six>Bioinformatics and Theoretical Biology</six>
+		<seven>Medicine</seven>
+		<eight>Basic Biological and Medical Research</eight>
+
+	</subjects>
+	<description>ArachnoServer is a manually curated database containing information on the sequence, three-dimensional structure, and biological activity of protein toxins derived from spider venom. Spiders are the largest group of venomous animals and they are predicted to contain by far the largest number of pharmacologically active peptide toxins (Escoubas et al., 2006). ArachnoServer has been custom-built so that a wide range of biological scientists, including neuroscientists, pharmacologists, and toxinologists, can readily access key data relevant to their discipline without being overwhelmed by extraneous information.</description>
+	<contact>support@arachnoserver.org</contact>
+	<content-types>
+		<first>Scientific and statistical data formats</first>
+		<second>Plain text</second>
+		<third>Software Applications</third>
+		<fourth>Images</fourth>
+		<fifth>Structured Greaphics</fifth>
+	</content-types>
+	<keywords>spider toxins</keywords>
+	<repository-type>Disciplinary</repository-type>
+	<language>English</language>
+	<data-or-service-provider>data provider</data-or-service-provider>
+
+	<repository-name id="rn-5">OPAL</repository-name>
+	<additional-name>Open at La Trobe</additional-name>
+	<subjects>
+		<one>Humanities and Social Sciences</one>
+		<two>Life Sciences</two>
+		<three>Natural Sciences</three>
+		<four>Engineering Sciences</four>
+	</subjects>
+	<description>Open At LaTrobe (OPAL) is La Trobe University’s official repository for Open Access materials generated by academic and professional staff and HDR students. These include publications and other research outputs, theses, open data, and educational resources. OPAL enables the storage, sharing, and selective publication of files and the assignment of a persistent DOI. Users maintain control over who can see their private files and all uploads are stored in La Trobe University approved storage. Access is via La Trobe University login credentials. La Trobe produces a wide range of useful datasets including supplementary data associated with publications and stand-alone datasets and collections.</description>
+	<contact>
+		<c-1>researchpublications@latrobe.edu.au</c-1>
+		<c-2>repository@latrobe.edu.au</c-2>
+	</contact>
+	<content-types>
+		<first>standard office documents</first>
+		<second>Images</second>
+		<third>structured graphics</third>
+		<fourth>audiovisual data</fourth>
+		<fifth>Scientific and statistical data</fifth>
+		<sixth>Raw data</sixth>
+		<seventh>Plain text</seventh>
+		<eighth>Structured text</eighth>
+		<ninth>archived data</ninth>
+		<tenth>Source code</tenth>
+	</content-types>
+	<keywords>multidisciplinary</keywords>
+	<repository-type>institutional</repository-type>
+	<language>English</language>
+	<data-or-service-provider>data provider</data-or-service-provider>
+	
+
+
+
+
+
+
+</data-repository>
